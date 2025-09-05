@@ -1,4 +1,7 @@
 # Core DVC with Google Drive support
+#local package install
+-e
+#third packages
 dvc[gdrive]>=3.0,<4.0
 
 # ML/DS stack

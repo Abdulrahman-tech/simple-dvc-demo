@@ -53,3 +53,33 @@ onliner updates for readme
   git branch -M Main
   git push  origin main
   ```
+
+  tox command - 
+  ```
+    bash
+    tox
+    ```
+    for rebuilding -
+    ```
+       bash
+    tox -r
+    ```
+    pytest command - 
+    ```
+      bash 
+      pytest -v
+
+
+      setup commands -
+      ```
+        bash
+      pip install -e . 
+      ```
+
+      build your own package commands - 
+      ```
+         bash
+      python setup.py sdist  bdist_wheel
+      ```
+       
+    
