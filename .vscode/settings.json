@@ -1,8 +1,16 @@
 {
     "cSpell.words": [
         "envlist",
+        "gdrive",
+        "gunicorn",
+        "joblib",
+        "jsonify",
+        "matplotlib",
+        "numpy",
         "pytest",
         "rrequirements",
-        "skipsdist"
+        "scikit",
+        "skipsdist",
+        "winequality"
     ]
 }
