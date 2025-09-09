@@ -46,6 +46,7 @@ install the req
 onliner updates for readme
 ```bash
  git add . && git commit -m "update Readme.md"
+ git add . && git commit -m "pytest example" && git push origin main 
  ```
 
  ```bash
